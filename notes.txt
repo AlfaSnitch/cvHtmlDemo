@@ -1,0 +1,6 @@
+for documentaion:
+1. google search : heading tags mdn(mozila developers network)
+2. w3school.com
+3. devdocs.io=>html5
+
+atom keyboar shortcut : https://github.com/nwinkler/atom-keyboard-shortcuts
